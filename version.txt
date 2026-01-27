@@ -1,0 +1,9 @@
+VERSION=2.0.0
+MANDATORY=false
+MIN_VERSION=1.0.0
+RELEASE_DATE=2025-01-27
+DOWNLOAD_URL=https://github.com/Bejarano7593/licenses/releases/download/v1.0.0/LicenseAdmin.exe
+NOTES_START
+- Versión inicial
+- Sistema de gestión de licencias
+NOTES_END
